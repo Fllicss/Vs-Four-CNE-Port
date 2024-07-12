@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FourSpritesRemastered.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FourDown0000" x="3115" y="1108" width="429" height="537" pivotX="186.4" pivotY="192.65"/>
+	<SubTexture name="FourDown0001" x="3115" y="1108" width="429" height="537"/>
+	<SubTexture name="FourDown0002" x="3544" y="1108" width="429" height="537"/>
+	<SubTexture name="FourDown0003" x="3544" y="1108" width="429" height="537"/>
+	<SubTexture name="FourDown0004" x="0" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0005" x="0" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0006" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0007" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0008" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0009" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0010" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0011" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0012" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0013" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourDown0014" x="429" y="1168" width="429" height="537"/>
+	<SubTexture name="FourIdle0000" x="0" y="602" width="445" height="566" pivotX="212.15" pivotY="275.4"/>
+	<SubTexture name="FourIdle0001" x="0" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0002" x="445" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0003" x="445" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0004" x="890" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0005" x="890" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0006" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0007" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0008" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0009" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0010" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0011" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0012" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0013" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0014" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0015" x="1780" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0016" x="1780" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0017" x="2225" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0018" x="2225" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0019" x="2670" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0020" x="2670" y="1108" width="445" height="566"/>
+	<SubTexture name="FourIdle0021" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0022" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0023" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0024" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0025" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0026" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0027" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0028" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourIdle0029" x="1335" y="602" width="445" height="566"/>
+	<SubTexture name="FourLeft0000" x="1968" y="0" width="503" height="541" pivotX="328.85" pivotY="192.35"/>
+	<SubTexture name="FourLeft0001" x="1968" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0002" x="2471" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0003" x="2471" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0004" x="2974" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0005" x="2974" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0006" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0007" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0008" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0009" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0010" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0011" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0012" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0013" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourLeft0014" x="3477" y="0" width="503" height="541"/>
+	<SubTexture name="FourRight0000" x="1968" y="541" width="448" height="567" pivotX="120.55" pivotY="275.9"/>
+	<SubTexture name="FourRight0001" x="1968" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0002" x="2416" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0003" x="2416" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0004" x="2864" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0005" x="2864" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0006" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0007" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0008" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0009" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0010" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0011" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0012" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0013" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourRight0014" x="3312" y="541" width="448" height="567"/>
+	<SubTexture name="FourUp0000" x="0" y="0" width="492" height="602" pivotX="254.2" pivotY="304.05"/>
+	<SubTexture name="FourUp0001" x="0" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0002" x="492" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0003" x="492" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0004" x="984" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0005" x="984" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0006" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0007" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0008" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0009" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0010" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0011" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0012" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0013" x="1476" y="0" width="492" height="602"/>
+	<SubTexture name="FourUp0014" x="1476" y="0" width="492" height="602"/>
+</TextureAtlas>

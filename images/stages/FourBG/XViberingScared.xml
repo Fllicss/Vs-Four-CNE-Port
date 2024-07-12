@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XViberingScared.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XVibingScared0000" x="0" y="0" width="356" height="380" pivotX="188.6" pivotY="150"/>
+	<SubTexture name="XVibingScared0001" x="0" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0002" x="0" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0003" x="0" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0004" x="356" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0005" x="356" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0006" x="356" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0007" x="356" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0008" x="0" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0009" x="0" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0010" x="0" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0011" x="0" y="380" width="356" height="380"/>
+	<SubTexture name="XVibingScared0012" x="356" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0013" x="356" y="0" width="356" height="380"/>
+	<SubTexture name="XVibingScared0014" x="356" y="380" width="356" height="380"/>
+</TextureAtlas>

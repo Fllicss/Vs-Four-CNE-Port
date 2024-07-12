@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpeakerGFSprites.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFIdle0000" x="5" y="5" width="748" height="352" pivotX="377.45" pivotY="175.8"/>
+	<SubTexture name="GFIdle0001" x="5" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0002" x="758" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0003" x="1511" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0004" x="2264" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0005" x="2264" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0006" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0007" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0008" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0009" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0010" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0011" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0012" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0013" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0014" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0015" x="5" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0016" x="5" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0017" x="758" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0018" x="1511" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0019" x="2264" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0020" x="2264" y="362" width="748" height="352"/>
+	<SubTexture name="GFIdle0021" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0022" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0023" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0024" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0025" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0026" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0027" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0028" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFIdle0029" x="3017" y="5" width="748" height="352"/>
+	<SubTexture name="GFSurprised0000" x="3017" y="362" width="707" height="360" pivotX="353.9" pivotY="218.3"/>
+	<SubTexture name="GFSurprised0001" x="3017" y="362" width="707" height="360"/>
+	<SubTexture name="GFSurprised0002" x="5" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0003" x="5" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0004" x="717" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0005" x="717" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0006" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0007" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0008" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0009" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0010" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0011" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0012" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0013" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0014" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0015" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0016" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0017" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0018" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0019" x="2141" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0020" x="2141" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0021" x="2853" y="727" width="707" height="360"/>
+	<SubTexture name="GFSurprised0022" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0023" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0024" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0025" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0026" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0027" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0028" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0029" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0030" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0031" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0032" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0033" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0034" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0035" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0036" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0037" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0038" x="1429" y="719" width="707" height="360"/>
+	<SubTexture name="GFSurprised0039" x="1429" y="719" width="707" height="360"/>
+</TextureAtlas>

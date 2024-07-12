@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="four" camx="80" y="180" isGF="false" camy="60" color="#327CCF" isPlayer="false" holdTime="6.1" sprite="FourSpritesRemastered">
+	<anim x="0" loop="false" y="0" fps="24" anim="FourIdle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="FourIdle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14" name="danceLeft"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="FourIdle" indices="15,16,17,18,19,20,21,22,23,24,25,26,27,28,29" name="danceRight"/>
+	<anim x="128" loop="false" y="-33" fps="24" anim="FourLeft" name="singLEFT"/>
+	<anim x="-24" loop="false" y="-32" fps="24" anim="FourDown" name="singDOWN"/>
+	<anim x="46" loop="false" y="30" fps="24" anim="FourUp" name="singUP"/>
+	<anim x="-77" loop="false" y="0" fps="24" anim="FourRight" name="singRIGHT"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/FourBG/" zoom="0.7" name="FourRemasteredBG">
+	<girlfriend x="0" y="20" scroll="1"/>
+	<dad x="-400" y="-10"/>
+	<combo />
+	<boyfriend x="600" y="0"/>
+</stage>

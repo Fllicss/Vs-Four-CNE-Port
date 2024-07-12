@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AngryFourRemastered.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AngryFourDown0000" x="6732" y="3378" width="410" height="518" pivotX="191.05" pivotY="173.45"/>
+	<SubTexture name="AngryFourDown0001" x="7142" y="3378" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0002" x="7552" y="3378" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0003" x="6732" y="3896" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0004" x="7142" y="3896" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0005" x="7552" y="3896" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0006" x="6732" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0007" x="7142" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0008" x="7142" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0009" x="7552" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0010" x="7552" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0011" x="6732" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0012" x="6732" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0013" x="7142" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourDown0014" x="7142" y="4414" width="410" height="518"/>
+	<SubTexture name="AngryFourIdle0000" x="6732" y="4932" width="376" height="547" pivotX="181.7" pivotY="256.5"/>
+	<SubTexture name="AngryFourIdle0001" x="6732" y="4932" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0002" x="7108" y="4932" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0003" x="7108" y="4932" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0004" x="7484" y="4932" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0005" x="7484" y="4932" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0006" x="0" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0007" x="0" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0008" x="376" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0009" x="376" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0010" x="752" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0011" x="752" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0012" x="0" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0013" x="0" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourIdle0014" x="376" y="5105" width="376" height="547"/>
+	<SubTexture name="AngryFourLeft0000" x="6732" y="0" width="469" height="528" pivotX="295.45" pivotY="179.95"/>
+	<SubTexture name="AngryFourLeft0001" x="6732" y="0" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0002" x="7201" y="0" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0003" x="7201" y="0" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0004" x="7670" y="0" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0005" x="7670" y="0" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0006" x="6732" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0007" x="6732" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0008" x="7201" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0009" x="7201" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0010" x="7670" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0011" x="7670" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0012" x="6732" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0013" x="6732" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourLeft0014" x="7201" y="528" width="469" height="528"/>
+	<SubTexture name="AngryFourRight0000" x="6732" y="2262" width="383" height="558" pivotX="135.95" pivotY="263.75"/>
+	<SubTexture name="AngryFourRight0001" x="6732" y="2262" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0002" x="7115" y="2262" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0003" x="7115" y="2262" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0004" x="7498" y="2262" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0005" x="7498" y="2262" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0006" x="6732" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0007" x="6732" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0008" x="7115" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0009" x="7115" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0010" x="7498" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0011" x="7498" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0012" x="6732" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0013" x="6732" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourRight0014" x="7115" y="2820" width="383" height="558"/>
+	<SubTexture name="AngryFourUp0000" x="6732" y="1056" width="370" height="603" pivotX="184.85" pivotY="305.95"/>
+	<SubTexture name="AngryFourUp0001" x="6732" y="1056" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0002" x="7102" y="1056" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0003" x="7102" y="1056" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0004" x="7472" y="1056" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0005" x="7472" y="1056" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0006" x="6732" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0007" x="6732" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0008" x="7102" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0009" x="7102" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0010" x="7472" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0011" x="7472" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0012" x="6732" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0013" x="6732" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourUp0014" x="7102" y="1659" width="370" height="603"/>
+	<SubTexture name="AngryFourZappies0000" x="0" y="0" width="2244" height="1021" pivotX="318.6" pivotY="518"/>
+	<SubTexture name="AngryFourZappies0001" x="0" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0002" x="2244" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0003" x="2244" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0004" x="4488" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0005" x="4488" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0006" x="0" y="1021" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0007" x="0" y="1021" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0008" x="0" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0009" x="0" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0010" x="2244" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0011" x="2244" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0012" x="4488" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0013" x="4488" y="0" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0014" x="2244" y="1021" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0015" x="4488" y="1021" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0016" x="0" y="2042" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0017" x="2244" y="2042" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0018" x="4488" y="2042" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0019" x="4488" y="2042" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0020" x="0" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0021" x="0" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0022" x="2244" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0023" x="2244" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0024" x="4488" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0025" x="4488" y="3063" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0026" x="0" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0027" x="0" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0028" x="2244" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0029" x="2244" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0030" x="4488" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0031" x="4488" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0032" x="0" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0033" x="0" y="4084" width="2244" height="1021"/>
+	<SubTexture name="AngryFourZappies0034" x="2244" y="4084" width="2244" height="1021"/>
+</TextureAtlas>

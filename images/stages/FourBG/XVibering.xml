@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="XVibering.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="XVibing0000" x="0" y="0" width="494" height="378" pivotX="254.85" pivotY="148.55"/>
+	<SubTexture name="XVibing0001" x="0" y="0" width="494" height="378"/>
+	<SubTexture name="XVibing0002" x="494" y="0" width="494" height="378"/>
+	<SubTexture name="XVibing0003" x="494" y="0" width="494" height="378"/>
+	<SubTexture name="XVibing0004" x="0" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0005" x="0" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0006" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0007" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0008" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0009" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0010" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0011" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0012" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0013" x="494" y="378" width="494" height="378"/>
+	<SubTexture name="XVibing0014" x="494" y="378" width="494" height="378"/>
+</TextureAtlas>

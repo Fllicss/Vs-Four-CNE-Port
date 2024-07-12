@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpeakerGFSprites2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFCantSeeIdle0000" x="5" y="5" width="748" height="352" pivotX="377.45" pivotY="175.8"/>
+	<SubTexture name="GFCantSeeIdle0001" x="5" y="5" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0002" x="758" y="5" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0003" x="5" y="362" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0004" x="758" y="362" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0005" x="758" y="362" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0006" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0007" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0008" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0009" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0010" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0011" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0012" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0013" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0014" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0015" x="758" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0016" x="758" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0017" x="5" y="1076" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0018" x="5" y="1433" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0019" x="758" y="1076" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0020" x="758" y="1076" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0021" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0022" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0023" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0024" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0025" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0026" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0027" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0028" x="5" y="719" width="748" height="352"/>
+	<SubTexture name="GFCantSeeIdle0029" x="5" y="719" width="748" height="352"/>
+</TextureAtlas>
