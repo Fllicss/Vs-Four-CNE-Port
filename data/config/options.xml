@@ -1,0 +1,7 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Psych UI Options" desc="Options for the Psych Engine UI">
+    <checkbox id="psychSwitch" name="Psych UI" desc="Enables or disables the Psych UI, everything else after this is turned off if this is off." />
+    <checkbox id="botplayOption" name="Botplay" desc="Enables botplay!" />
+    <checkbox id="showBar" name="Hide Timebar" desc="Hides the TimeBar."/>
+    <checkbox id="showTxt" name="Hide ScoreTxt" desc="Hides the Psych ScoreTxt"/>
+</menu>
